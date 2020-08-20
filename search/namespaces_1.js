@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['caesar_2552',['caesar',['../dd/d81/namespacecaesar.html',1,'']]],
-  ['ciphers_2553',['ciphers',['../d6/d4e/namespaceciphers.html',1,'']]]
+  ['backtracking_2659',['backtracking',['../db/dc0/namespacebacktracking.html',1,'']]]
 ];

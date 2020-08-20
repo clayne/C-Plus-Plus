@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['machine_5flearning_2559',['machine_learning',['../d8/d77/namespacemachine__learning.html',1,'']]]
+  ['is_5fgraph_5fbipartite_2668',['is_graph_bipartite',['../de/d83/namespaceis__graph__bipartite.html',1,'']]]
 ];

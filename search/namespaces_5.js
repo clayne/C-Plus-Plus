@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linear_5fprobing_2558',['linear_probing',['../d8/d89/namespacelinear__probing.html',1,'']]]
+  ['heavy_5flight_5fdecomposition_2667',['heavy_light_decomposition',['../db/d6f/namespaceheavy__light__decomposition.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['n_5fqueens_2560',['n_queens',['../d3/da1/namespacen__queens.html',1,'']]]
+  ['jarvis_2669',['jarvis',['../d5/da7/namespacejarvis.html',1,'']]]
 ];
