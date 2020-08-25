@@ -117,9 +117,6 @@ var NAVTREEINDEX1 =
 "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html#a8306e48040a8570e164c58d1c530f870":[7,0,3,0,0,0],
 "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html#a835cd4cdc5a644abb84535197d753b02":[7,0,3,0,0,3],
 "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html#a878952f2eb3d1fae79d58c994fc10ab1":[7,0,3,0,0,1],
-"d4/de8/fast__interger__input_8cpp.html":[8,0,11,4],
-"d4/de8/fast__interger__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82":[8,0,11,4,0],
-"d4/de8/fast__interger__input_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,4,1],
 "d4/def/kohonen__som__topology_8cpp.html":[8,0,8,1],
 "d4/def/kohonen__som__topology_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,8,1,9],
 "d4/def/kohonen__som__topology_8cpp.html#a0e7435446ed7c763f7de79a468add2e0":[8,0,8,1,13],
@@ -249,5 +246,8 @@ var NAVTREEINDEX1 =
 "d5/ddb/bogo__sort_8cpp.html#ae8adaeff66471f9ed84f2e673b38a859":[8,0,15,0,2],
 "d5/ddb/bogo__sort_8cpp.html#aedfb88e2d6fff1871f038221fe5870fe":[8,0,15,0,3],
 "d5/def/stairs__pattern_8cpp.html":[8,0,11,14],
-"d5/def/stairs__pattern_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,14,0]
+"d5/def/stairs__pattern_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,14,0],
+"d5/df4/merge__sort_8cpp.html":[8,0,15,6],
+"d5/df6/check__amicable__pair_8cpp.html":[8,0,9,2],
+"d5/df6/check__amicable__pair_8cpp.html#ac656a51b4c3bd7d63b7dcc75dc3e5576":[8,0,9,2,2]
 };

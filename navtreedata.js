@@ -110,8 +110,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d4c/quick__sort__3_8cpp.html",
-"d5/df4/merge__sort_8cpp.html",
-"d8/d95/vector__ops_8hpp.html#a73ee7ed3546ab9e8792a92336d0d14ab",
+"d5/df6/check__amicable__pair_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
+"d8/d95/vector__ops_8hpp.html#a8e8b54aaa62ad7f906aec0756ca3a500",
 "db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
 "de/d0d/fibonacci__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
 ];
