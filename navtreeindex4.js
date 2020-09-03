@@ -248,6 +248,6 @@ var NAVTREEINDEX4 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,10,6,1],
-"dd/d69/namespacerange__queries.html":[6,0,21],
-"dd/d69/namespacerange__queries.html":[7,0,8]
+"dd/d69/namespacerange__queries.html":[7,0,8],
+"dd/d69/namespacerange__queries.html":[6,0,22]
 };
