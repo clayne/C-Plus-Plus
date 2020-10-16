@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md53", null ],
-      [ "Features", "index.html#autotoc_md54", null ],
-      [ "Documentation", "index.html#autotoc_md55", null ],
-      [ "Contributions", "index.html#autotoc_md56", null ]
+      [ "Overview", "index.html#autotoc_md59", null ],
+      [ "Features", "index.html#autotoc_md60", null ],
+      [ "Documentation", "index.html#autotoc_md61", null ],
+      [ "Contributions", "index.html#autotoc_md62", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -99,7 +99,7 @@ var NAVTREE =
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", null ],
+        [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Related Functions", "functions_rela.html", null ]
@@ -120,13 +120,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d3/d26/binary__search__tree_8cpp.html#a521ea77f195e491750e602292c6dc335",
-"d5/da1/structnode.html#a063635bc4e984d971d1efeb4230b0515",
-"d7/d89/double__factorial_8cpp.html",
-"da/d9a/class_graph.html#a13697caf8be6275ebb7b9497c9a9d6e5",
-"dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49",
-"globals.html"
+"",
+"d3/d17/namespaceutil__functions.html",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md43",
+"d7/d7c/classstatistics_1_1stats__computer1.html#a48c03a44c784eb6913ad186d34c302db",
+"da/d5a/class_complex.html#a776d595d5a1b576e9136cbc6bac0589c",
+"dc/db5/text__search_8cpp.html",
+"functions_a.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
