@@ -1,6 +1,6 @@
 var NAVTREEINDEX1 =
 {
-"d3/d17/namespaceutil__functions.html":[7,0,39],
+"d3/d17/namespaceutil__functions.html":[7,0,40],
 "d3/d19/sparse__matrix_8cpp.html":[9,0,12,13],
 "d3/d19/sparse__matrix_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,12,13,0],
 "d3/d24/qr__decomposition_8cpp.html":[9,0,11,13],
@@ -216,8 +216,8 @@ var NAVTREEINDEX1 =
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[9,0,16,7,3],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[6,3,1],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[9,0,16,4,1],
-"d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[6,3,3],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[9,0,16,7,1],
+"d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[6,3,3],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[6,3,4],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[9,0,16,7,2],
 "d5/d4c/group__sorting.html#gabd9a93f241c5c86f2ec0abf8b66b4145":[9,0,16,4,0],
