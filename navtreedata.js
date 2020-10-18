@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md59", null ],
-      [ "Features", "index.html#autotoc_md60", null ],
-      [ "Documentation", "index.html#autotoc_md61", null ],
-      [ "Contributions", "index.html#autotoc_md62", null ]
+      [ "Overview", "index.html#autotoc_md60", null ],
+      [ "Features", "index.html#autotoc_md61", null ],
+      [ "Documentation", "index.html#autotoc_md62", null ],
+      [ "Contributions", "index.html#autotoc_md63", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -121,13 +121,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d4/d68/qr__decompose_8h.html",
-"d9/d23/classgraph_1_1_lowest_common_ancestor.html#ad6ae1f39c3ce27fc009970e6aa3c022a",
-"d4/db4/struct_segment_intersection.html#aefd077282f45bd16799b53f8aa430ffd",
-"da/d8d/depth__first__search_8cpp.html#a2e6017a54d445819ede9adcf33240e1a",
-"dc/dc5/paranthesis__matching_8cpp.html#af4c937d823c412d99fbe60c99dbf0a4f",
-"dir_0eaa691bd54ab0922ca7f50599de6d22.html"
+"",
+"d3/d17/namespaceutil__functions.html",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32",
+"d7/d77/class_edge.html#a415a5d002fe11c58711e48aabe975980",
+"d9/df0/fast__integer__input_8cpp.html",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a35ab6f1b2840f89a858ca36b78739b69",
+"df/dfb/minimax_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
