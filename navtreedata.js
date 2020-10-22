@@ -47,7 +47,7 @@ var NAVTREE =
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
           [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md16", null ],
           [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md17", null ],
-          [ "Typical structure of a program:", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
+          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
           [ "New File Name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md19", null ],
           [ "New Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20", null ],
           [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md21", null ]
@@ -123,11 +123,11 @@ var NAVTREEINDEX =
 [
 "",
 "d3/d17/namespaceutil__functions.html",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32",
-"d7/d77/class_edge.html#a415a5d002fe11c58711e48aabe975980",
-"d9/df0/fast__integer__input_8cpp.html",
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a35ab6f1b2840f89a858ca36b78739b69",
-"df/dfb/minimax_8cpp.html"
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31",
+"d7/d77/class_edge.html#a2449478938136b5ab7ef0e7d92e6990b",
+"d9/dde/structdouble__hashing_1_1_entry.html",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aa799b4cec1681219887d89d037cfab50",
+"df/dce/namespacegraph.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
