@@ -1,5 +1,10 @@
 var NAVTREEINDEX4 =
 {
+"d9/d92/chaining_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,8,0,1],
+"d9/dca/namespacesearch.html":[8,0,36],
+"d9/dd7/interpolation__search_8cpp.html":[10,0,15,4],
+"d9/dd7/interpolation__search_8cpp.html#a9805865b5c5ca6b0fdf95fd86132625a":[10,0,15,4,0],
+"d9/dd7/interpolation__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,4,1],
 "d9/dde/structdouble__hashing_1_1_entry.html":[9,0,2,0],
 "d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[9,0,2,0,0],
 "d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248":[9,0,2,0,1],
@@ -64,8 +69,8 @@ var NAVTREEINDEX4 =
 "da/d9a/class_graph.html#a6afcd41564ea00294a4c089414979ca1":[9,0,19,39],
 "da/d9a/class_graph.html#a6cb6fbec4ea7cfdfda368f2c468a757d":[9,0,19,19],
 "da/d9a/class_graph.html#a6d95f41d2df61697379ccc209c78f801":[9,0,19,24],
-"da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[9,0,19,13],
 "da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[9,0,19,12],
+"da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[9,0,19,13],
 "da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[9,0,19,14],
 "da/d9a/class_graph.html#a73268574e2528b8e760191113ef6d1eb":[9,0,19,26],
 "da/d9a/class_graph.html#a8a34b80e2f3749992e0e9b83de742fba":[9,0,19,25],
@@ -107,7 +112,7 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[9,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[9,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,8,0,0],
-"da/dd3/namespacespirograph.html":[8,0,39],
+"da/dd3/namespacespirograph.html":[8,0,40],
 "da/dd4/namespacemedian__search.html":[8,0,21],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[10,0,12,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,12,2,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX4 =
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a4261f3c3c3dfdb86f3004eb8aaffea8d":[10,0,9,4,5],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a4921874435266592b222e3f2eda0e01f":[10,0,9,4,3],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a4bcaaf41c66da4d3a471dacef133def7":[10,0,9,4,15],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a64d9dd5c5816d6d907b00e5f4b0372a5":[10,0,9,4,8],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a67249e31221231cf3aaf3cfd870372d0":[10,0,9,4,10],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a889f9de199fa793497c864d8e493af05":[10,0,9,4,2],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a98ab8f75d981088369b89b8be2182483":[10,0,9,4,1],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a98eb5807f21b783c341cab402ced6732":[10,0,9,4,13],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a9b2b5da35a6ba8ae203c33739ef0b91d":[10,0,9,4,6]
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a64d9dd5c5816d6d907b00e5f4b0372a5":[10,0,9,4,8]
 };

@@ -20,7 +20,7 @@ var searchData=
   ['negate_1175',['negate',['http://en.cppreference.com/w/cpp/utility/functional/negate.html',0,'std']]],
   ['negative_5fbinomial_5fdistribution_1176',['negative_binomial_distribution',['http://en.cppreference.com/w/cpp/numeric/random/negative_binomial_distribution.html',0,'std::negative_binomial_distribution'],['http://en.cppreference.com/w/cpp/numeric/random/negative_binomial_distribution/negative_binomial_distribution.html',0,'std::negative_binomial_distribution::negative_binomial_distribution()']]],
   ['negative_5fsign_1177',['negative_sign',['http://en.cppreference.com/w/cpp/locale/moneypunct/positive_sign.html',0,'std::moneypunct_byname::negative_sign()'],['http://en.cppreference.com/w/cpp/locale/moneypunct/positive_sign.html',0,'std::moneypunct::negative_sign()']]],
-  ['neighbors_1178',['neighbors',['../dc/d61/classgraph_1_1_graph.html#afe3c12683248e50a7a1688b40156a842',1,'graph::Graph']]],
+  ['neighbors_1178',['neighbors',['../dc/d61/classgraph_1_1_graph.html#a59940c462861f2fcf4951d1b6c084e6a',1,'graph::Graph']]],
   ['nested_5fexception_1179',['nested_exception',['http://en.cppreference.com/w/cpp/error/nested_exception.html',0,'std::nested_exception'],['http://en.cppreference.com/w/cpp/error/nested_exception/nested_exception.html',0,'std::nested_exception::nested_exception()']]],
   ['nested_5fptr_1180',['nested_ptr',['http://en.cppreference.com/w/cpp/error/nested_exception/nested_ptr.html',0,'std::nested_exception']]],
   ['neural_5fnetwork_1181',['neural_network',['../d0/d2e/namespaceneural__network.html',1,'']]],
@@ -68,7 +68,7 @@ var searchData=
   ['number_5fof_5fdigits_1223',['number_of_digits',['../d4/d5d/math_2armstrong__number_8cpp.html#aab733299b170fa5a752503f95f090fcd',1,'armstrong_number.cpp']]],
   ['number_5fof_5fpositive_5fdivisors_1224',['number_of_positive_divisors',['../d0/da2/number__of__positive__divisors_8cpp.html#ad89ccced8504b5116046cfa03066ffeb',1,'number_of_positive_divisors.cpp']]],
   ['number_5fof_5fpositive_5fdivisors_2ecpp_1225',['number_of_positive_divisors.cpp',['../d0/da2/number__of__positive__divisors_8cpp.html',1,'']]],
-  ['number_5fof_5fvertices_1226',['number_of_vertices',['../dc/d61/classgraph_1_1_graph.html#ae2f6992450faa2c3da93edea0818869a',1,'graph::Graph']]],
+  ['number_5fof_5fvertices_1226',['number_of_vertices',['../dc/d61/classgraph_1_1_graph.html#a8930d1470d132b19e430d1c71f94c904',1,'graph::Graph']]],
   ['numeric_5flimits_1227',['numeric_limits',['http://en.cppreference.com/w/cpp/types/numeric_limits.html',0,'std']]],
   ['numpunct_1228',['numpunct',['http://en.cppreference.com/w/cpp/locale/numpunct.html',0,'std::numpunct'],['http://en.cppreference.com/w/cpp/locale/numpunct/numpunct.html',0,'std::numpunct::numpunct()']]],
   ['numpunct_5fbyname_1229',['numpunct_byname',['http://en.cppreference.com/w/cpp/locale/numpunct_byname.html',0,'std::numpunct_byname'],['http://en.cppreference.com/w/cpp/locale/numpunct_byname.html',0,'std::numpunct_byname::numpunct_byname()']]]
