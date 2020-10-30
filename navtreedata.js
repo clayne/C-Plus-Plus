@@ -114,19 +114,20 @@ var NAVTREE =
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"",
-"d3/d17/namespaceutil__functions.html",
-"d5/d67/complex__numbers_8cpp.html#af738b2a6921f0a6868bb7c5b4c0d18e0",
-"d7/d6a/bisection__method_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d9/d69/median__search_8cpp.html#a868847218f694e78bf433a0ff7648bae",
-"dc/d1a/pascal__triangle_8cpp.html",
-"df/d06/decimal__to__binary_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
+"annotated.html",
+"d3/d06/ode__semi__implicit__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b",
+"d5/d67/bayes__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d7/d65/shortest__common__supersequence_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f",
+"db/dd3/ode__forward__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f",
+"de/de4/fibonacci__large_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
