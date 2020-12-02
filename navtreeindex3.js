@@ -1,5 +1,10 @@
 var NAVTREEINDEX3 =
 {
+"d6/da2/namespacevigenere.html":[8,0,61],
+"d6/dab/namespacetree__234.html":[8,0,59],
+"d6/db0/binomial__dist_8cpp.html":[10,0,14,2],
+"d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76":[10,0,14,2,4],
+"d6/db0/binomial__dist_8cpp.html#a4416a7bc7fa87201883c54cdc4c82813":[10,0,14,2,0],
 "d6/db0/binomial__dist_8cpp.html#a76ed6ce71415fb400b65f0656cef3d25":[10,0,14,2,1],
 "d6/db0/binomial__dist_8cpp.html#a78d36635232e54b5d71fcbf1eac9a49a":[10,0,14,2,6],
 "d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861":[10,0,14,2,3],
@@ -76,7 +81,7 @@ var NAVTREEINDEX3 =
 "d7/d35/matrix__exponentiation_8cpp.html#ad8389ed58fd0ec66df248014775ad1fa":[10,0,13,6,4],
 "d7/d35/matrix__exponentiation_8cpp.html#ae1d1ec9482079231e898236e2b23c9ba":[10,0,13,6,1],
 "d7/d35/matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,13,6,5],
-"d7/d47/namespace_x_o_r.html":[8,0,63],
+"d7/d47/namespace_x_o_r.html":[8,0,64],
 "d7/d65/shortest__common__supersequence_8cpp.html":[10,0,3,5],
 "d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,3,5,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6":[10,0,3,5,1],
@@ -155,7 +160,7 @@ var NAVTREEINDEX3 =
 "d8/d13/bubble__sort_8cpp.html":[10,0,17,1],
 "d8/d13/bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,1,0],
 "d8/d14/namespacen__queens__optimized.html":[8,0,33],
-"d8/d1d/namespacestrand.html":[8,0,55],
+"d8/d1d/namespacestrand.html":[8,0,56],
 "d8/d36/namespacecut__rod.html":[8,0,5],
 "d8/d38/queue_8h_source.html":[10,0,2,8],
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html":[10,0,11,26],
@@ -244,10 +249,5 @@ var NAVTREEINDEX3 =
 "d8/dc8/struct_point.html#ab99c56589bc8ad5fa5071387110a5bc7":[9,0,31,2],
 "d8/dc8/struct_point.html#ae2d6fb1b3fd3a96169d963d62e37130a":[9,0,31,0],
 "d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8":[9,0,31,4],
-"d8/dcc/namespacestd.html":[8,0,54],
-"d8/dd5/check__factorial_8cpp.html":[10,0,11,3],
-"d8/dd5/check__factorial_8cpp.html#a814eea122b9c241c2b7c1ab760a3eca2":[10,0,11,3,0],
-"d8/dd5/check__factorial_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,11,3,2],
-"d8/dd5/check__factorial_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,3,1],
-"d8/ddf/sieve__of__eratosthenes_8cpp.html":[10,0,11,35]
+"d8/dcc/namespacestd.html":[8,0,55]
 };
