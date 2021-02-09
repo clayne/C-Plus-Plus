@@ -127,12 +127,12 @@ var NAVTREEINDEX =
 "cpp/thread/lock.html",
 "d2/d21/gnome__sort_8cpp.html#a2f8bc626eb57acae24a94636a23af6a1",
 "d4/d7a/shell__sort2_8cpp.html#a895b313cb2671e8f712040460325573e",
-"d5/db8/namespacemincoins__topdown.html",
-"d7/d77/class_edge.html#aadbbb85298a21ecc2c17eeeadea65b01",
-"d9/d24/poisson__dist_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dd/d2f/class_trie.html#a95216ffc56cb9f8cede982cecb872af4",
-"df/def/power__for__huge__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
+"d5/dab/structdata__structures_1_1list__array_1_1list.html#ac91272e6c970299e51cccd6cbdfe9e53",
+"d7/d77/class_edge.html#a0bc08bf5da251d66412a7dc3e50c6605",
+"d9/d03/namespacestring__search.html",
+"da/dd4/namespacemedian__search.html",
+"dd/d1c/classhash__chain.html#a48236d44349c3ebce4774b706f4f8a0f",
+"df/dce/namespacegraph.html#a48acac475cb48614279e7ea784c32fc3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
