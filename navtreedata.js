@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md66", null ],
-      [ "Features", "index.html#autotoc_md67", null ],
-      [ "Documentation", "index.html#autotoc_md68", null ],
-      [ "Contributions", "index.html#autotoc_md69", null ]
+      [ "Overview", "index.html#autotoc_md67", null ],
+      [ "Features", "index.html#autotoc_md68", null ],
+      [ "Documentation", "index.html#autotoc_md69", null ],
+      [ "Contributions", "index.html#autotoc_md70", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -122,17 +122,17 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/manip/endl.html",
-"cpp/string/wide/towctrans.html",
-"d1/def/classdata__structures_1_1linked__list_1_1list.html#a50e209b55b83622254177050945e7826",
-"d4/d39/group__open__addressing.html",
-"d5/d91/namespacesorting.html#a4d76603c54d3dc56146e92d10a043924",
-"d7/d35/matrix__exponentiation_8cpp.html",
-"d8/dab/sparse__table_8cpp.html#ad71ae7840af3a52e7ee56186bb0c3063",
-"da/d9a/class_graph.html#ac3e58f4a0c8c65befe6629f4e1b71142",
-"dc/dd9/strand__sort_8cpp.html",
-"df/d42/binary__search__tree2_8cpp.html#a8c882f43e1e52948a7841a8bfb091350"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d2/d21/gnome__sort_8cpp.html#a2f8bc626eb57acae24a94636a23af6a1",
+"d4/d7a/shell__sort2_8cpp.html#a5669396c6a6b1e14b97589b6e37980aa",
+"d5/dab/structdata__structures_1_1list__array_1_1list.html#a39a712c8413b0d7861695ec019474469",
+"d7/d75/postfix__evaluation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d9/d02/linear__search_8cpp.html",
+"da/dd3/namespacespirograph.html",
+"dd/d1b/structquery.html#aedd873fb96eb4f83fb4289b1c58ce794",
+"df/dce/namespacegraph.html#a2e6017a54d445819ede9adcf33240e1a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
