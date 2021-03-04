@@ -123,17 +123,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/df3/hash__search_8cpp.html#af413b1740073db54796642b0ab814d6d",
-"d4/d48/hamming__distance_8cpp.html#a65d845df3fecff7087a2126c7b72030b",
-"d5/d91/namespacesorting.html#a9d4eb6ea3c35540d804d451f1716622d",
-"d7/d35/matrix__exponentiation_8cpp.html#ac62a499b83c7895dd0aa69da1b64c904",
-"d8/db1/binomial__calculate_8cpp.html",
-"da/d9a/class_graph.html#a9f341e2e8348a3f484987bdb0cec8006",
-"dc/dc5/paranthesis__matching_8cpp.html#aae41c72130114bf31204cde6873b6095",
-"df/d39/interpolation__search2_8cpp.html#aa3ec659ec8394d186c761df81ad1f629"
+"",
+"cpp/io/manip/boolalpha.html",
+"cpp/string/wide/iswupper.html",
+"d1/dc7/linear__probing__hash__table_8cpp.html#a2de838f453df67b72411eefb7faf833c",
+"d3/dce/linkedlist__implentation__usingarray_8cpp.html#a92e0c1bb3b270143881e36b5fea8a60d",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32",
+"d6/dce/rabin__karp_8cpp.html#aebe07cea289a13142503d98be7df11fd",
+"d8/d95/vector__ops_8hpp.html#a1b42d24ad7bedbfa8e5b59fe96987a44",
+"da/d4b/depth__first__search__with__stack_8cpp.html#a7511fcdb330b3ab599ff9e15229ae068",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a4bcaaf41c66da4d3a471dacef133def7",
+"de/d7b/merge__insertion__sort_8cpp.html#af4de4067a9a866ffd985c5b5055ccedf",
+"globals_type.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
