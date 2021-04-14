@@ -92,7 +92,8 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -126,15 +127,16 @@ var NAVTREEINDEX =
 "annotated.html",
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
-"d1/df3/hash__search_8cpp.html#a77c722016053a1d484aa177ce205b367",
-"d4/d38/power__of__two_8cpp.html",
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html",
-"d7/d07/bidirectional__dijkstra_8cpp.html#aa3848a7213562b47084585499d3642a5",
-"d8/d95/vector__ops_8hpp.html#a8b3b06a63bd16b91237c85a295309774",
-"da/d4b/depth__first__search__with__stack_8cpp.html#ae198aeaad22ccd56712b7380bd62f777",
-"db/dd3/ode__forward__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b",
-"de/d0d/fibonacci__search_8cpp.html",
-"globals_d.html"
+"d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
+"d3/d7d/brute__force__string__searching_8cpp.html",
+"d5/d15/classcll.html#abb6fb5834563d077a4eaff1b7fdc5b44",
+"d6/d7a/golden__search__extrema_8cpp.html#a0283886819c7c140a023582b7269e2d0",
+"d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0",
+"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1",
+"da/de7/decimal__to__hexadecimal_8cpp.html",
+"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1",
+"globals_func_n.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
