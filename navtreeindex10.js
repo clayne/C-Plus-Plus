@@ -1,5 +1,10 @@
 var NAVTREEINDEX10 =
 {
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[10,0,11,4,9],
+"dc/d52/linear__recurrence__matrix_8cpp.html#a7487322bae85648c89da86f34431c103":[8,0,37,2,1],
+"dc/d52/linear__recurrence__matrix_8cpp.html#a759a232b9d5ab032062b8560343c6af3":[8,0,37,2,3],
+"dc/d52/linear__recurrence__matrix_8cpp.html#ab55e45ae404ea360e9eebac8f63692f7":[8,0,37,2,2],
+"dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14":[8,0,37,2,0],
 "dc/d5a/rat__maze_8cpp.html":[10,0,0,6],
 "dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,0,6,2],
 "dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[8,0,3,3,0],
@@ -52,11 +57,11 @@ var NAVTREEINDEX10 =
 "dc/dc5/paranthesis__matching_8cpp.html#ade525d33459755a32ba21e1b6910ff21":[10,0,15,8,2],
 "dc/dc5/paranthesis__matching_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,8,1],
 "dc/dc5/paranthesis__matching_8cpp.html#af4c937d823c412d99fbe60c99dbf0a4f":[10,0,15,8,6],
-"dc/dd9/strand__sort_8cpp.html":[10,0,19,17],
-"dc/dd9/strand__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,19,17,2],
-"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[10,0,19,17,1],
+"dc/dd9/strand__sort_8cpp.html":[10,0,19,18],
+"dc/dd9/strand__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,19,18,2],
 "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[8,0,65,5,0],
-"dc/dd9/strand__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,17,0],
+"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[10,0,19,18,1],
+"dc/dd9/strand__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,18,0],
 "dc/dfe/ternary__search_8cpp.html":[10,0,18,10],
 "dc/dfe/ternary__search_8cpp.html#a23ad617bfce1e7cf4591059c85c1a027":[10,0,18,10,0],
 "dc/dfe/ternary__search_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[10,0,18,10,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX10 =
 "de/d48/struct_trie_1_1_trie_node.html#a73bba435c8e304cc97fd3dc40c95d52f":[9,0,44,0,1],
 "de/d48/struct_trie_1_1_trie_node.html#ae13ae4b74d997d3e83d7bb51b204d99e":[9,0,44,0,0],
 "de/d6a/knuth__morris__pratt_8cpp.html":[10,0,20,2],
-"de/d6a/knuth__morris__pratt_8cpp.html#a26a58225ce7d3fa9d4c2f5349a65ed93":[10,0,20,2,1],
-"de/d6a/knuth__morris__pratt_8cpp.html#aa422aab133d4ed5e5d6022a7f701271f":[10,0,20,2,0],
-"de/d6a/knuth__morris__pratt_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,20,2,2],
-"de/d75/qr__eigen__values_8cpp.html":[10,0,13,14],
-"de/d75/qr__eigen__values_8cpp.html#a0283886819c7c140a023582b7269e2d0":[10,0,13,14,6],
-"de/d75/qr__eigen__values_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[10,0,13,14,5]
+"de/d6a/knuth__morris__pratt_8cpp.html#a26a58225ce7d3fa9d4c2f5349a65ed93":[10,0,20,2,1]
 };

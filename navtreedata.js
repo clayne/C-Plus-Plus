@@ -128,14 +128,14 @@ var NAVTREEINDEX =
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
 "d3/d4c/xor__cipher_8cpp.html#aeff72a463ffc580c16cc849cbbdc58ef",
-"d5/d15/classcll.html#a2eb66b7c9d059dcf75090248fa521262",
-"d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9",
-"d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b",
-"d9/d5d/extended__euclid__algorithm_8cpp.html#acba15ca55b3e7dcb91f3c65d72ba052d",
-"da/dd3/namespacespirograph.html#a8e83a64e8443fff1e5ffdc1c299c1e99",
-"dc/d5a/rat__maze_8cpp.html",
-"de/d75/qr__eigen__values_8cpp.html#a33cb0a68c36aa26fd599c7c66da86ed7",
-"globals_func_g.html"
+"d5/d15/classcll.html#a04b61bb736525f28b8042c6145e1a265",
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f",
+"d8/d69/classgraph_1_1_h_k_graph.html#a3d9101e3b4598159005fd028b9b0ff74",
+"d9/d5a/structgeometry_1_1jarvis_1_1_point.html#a6c52f5bd4f7360d2d1db0bf6537a10e0",
+"da/dc9/fibonacci__matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6",
+"de/d6a/knuth__morris__pratt_8cpp.html#aa422aab133d4ed5e5d6022a7f701271f",
+"globals_func_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

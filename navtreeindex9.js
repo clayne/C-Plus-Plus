@@ -1,5 +1,10 @@
 var NAVTREEINDEX9 =
 {
+"da/dc9/fibonacci__matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,15,1],
+"da/dd1/structquadratic__probing_1_1_entry.html":[9,0,10,0],
+"da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[9,0,10,0,1],
+"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,10,0,0],
+"da/dd3/namespacespirograph.html":[8,0,67],
 "da/dd3/namespacespirograph.html#a8e83a64e8443fff1e5ffdc1c299c1e99":[8,0,67,1],
 "da/dd3/namespacespirograph.html#aeca22dbe4563358960e907a40cd3e1ac":[8,0,67,0],
 "da/dd4/namespacemedian__search.html":[8,0,38],
@@ -244,10 +249,5 @@ var NAVTREEINDEX9 =
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a9b2b5da35a6ba8ae203c33739ef0b91d":[10,0,11,4,6],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#aa799b4cec1681219887d89d037cfab50":[10,0,11,4,14],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#ab6171f4db68a5e50ae0f3500a63acd26":[10,0,11,4,7],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,4,4],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[10,0,11,4,9],
-"dc/d52/linear__recurrence__matrix_8cpp.html#a7487322bae85648c89da86f34431c103":[8,0,37,2,1],
-"dc/d52/linear__recurrence__matrix_8cpp.html#a759a232b9d5ab032062b8560343c6af3":[8,0,37,2,3],
-"dc/d52/linear__recurrence__matrix_8cpp.html#ab55e45ae404ea360e9eebac8f63692f7":[8,0,37,2,2],
-"dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14":[8,0,37,2,0]
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,4,4]
 };
